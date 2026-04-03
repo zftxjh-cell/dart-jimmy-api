@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.python-version
+.venv/
+venv/
+env/
+
+# dotenv
+.env
+
+# macOS
+.DS_Store
+
+# build
+build/
+dist/
+*.egg-info/
+
+# logs
+*.log
