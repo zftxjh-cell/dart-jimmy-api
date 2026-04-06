@@ -1,3 +1,4 @@
 httpx>=0.28.1
 mcp[cli]>=1.6.0
 python-dotenv>=1.0.0
+dart-mcp  # 실제 패키지명 확인 필요
